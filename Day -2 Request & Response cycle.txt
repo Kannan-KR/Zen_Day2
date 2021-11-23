@@ -1,0 +1,28 @@
+1. List 5 difference between Browser JS(console) v Nodejs
+	• Node js is used on the server side. Browser js is on the client side.
+	• With browser js, we can manipulate dom and html elements. Nodejs doesntr have the capability.
+	• Browser js is used in frontend development. Node js is used for backend.
+	• Nodejs runs on the browser. 
+	• Browser js runs on most of the browser engine. Nodejs only supports v8 engine.
+
+
+
+2. watch & summary 5 points - https://www.youtube.com/watch?v=SmE4OwHztCc&ab_channel=JSConf
+	• Render Tree(RenderObjects, RenderStyles, RenderLayers, Line boxes) combines CSS (CSSOM) and HTML (DOM)
+	• Browser goes through a recursive process to lay the elements along with its children. Layout computes where a Node will be on the screen.
+	• While manipulating, it is a good practice to read the elements at once and then write it.
+	• Paint setup – Creates layers from render tress, computes bitmaps and composites to screen.
+	• Converted to a final image with the help of GPU.
+
+
+
+4.	Execute the below code and write your description in txt file 
+	a. typeof(1)	- number
+	b. typeof(1.1)	- number
+	c. typeof('1.1')	- string
+	d. typeof(true)	- boolean
+	e. typeof(null)	- object
+	f. typeof(undefined)	- undefined
+	g. typeof([])	- object
+	h. typeof({})	- object
+	i. typeof(NaN)	- number
