@@ -1,6 +1,6 @@
 1. List 5 difference between Browser JS(console) v Nodejs
 	• Node js is used on the server side. Browser js is on the client side.
-	• With browser js, we can manipulate dom and html elements. Nodejs doesntr have the capability.
+	• With browser js, we can manipulate dom and html elements. Nodejs does not have the capability.
 	• Browser js is used in frontend development. Node js is used for backend.
 	• Nodejs runs on the browser. 
 	• Browser js runs on most of the browser engine. Nodejs only supports v8 engine.
